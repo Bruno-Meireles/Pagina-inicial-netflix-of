@@ -1,17 +1,19 @@
-# Nome do meu projeto
+# Página Inicial do Netflix
 
-Rápida descrição do objetivo de fazer esse projeto
+Projeto feito junto ao Digital Inovation, replicando a página inicial do Netflix.
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Titulo do meu projeto**
-| :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
-| :rocket: URL         | https://url-deploy.com.br
+| :sparkles: Nome        | **Página Inicial do Netflix**
+| :label: Tecnologias | java, html, css
+| :rocket: URL         | https://github.com/Bruno-Meireles/netflix.git
 | :fire: Desafio     | https://url-do-desafio.com.br
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+  
+![netflix](https://user-images.githubusercontent.com/88012503/191636624-9697869a-05ab-4620-9f46-2ad0d8c84db9.png)
 
-## Detalhes do projeto
+## Pagina inicial Netflix desafio dio
 
-Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
+
+![Netflix-ok](https://user-images.githubusercontent.com/88012503/191636733-b33af90c-9865-45d8-9919-d063563f1c5d.jpg)
